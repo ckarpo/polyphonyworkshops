@@ -912,7 +912,14 @@ color:#FFFCF9;
   margin:auto;
 }
 .back{
-  width: 6%;
+  width: 8%;
   padding: 15px;
+}
+@media (max-width:481px){
+ .back{ 
+    width: 12%;
+    padding: 15px;
+    margin:auto;
+  }
 }
 
