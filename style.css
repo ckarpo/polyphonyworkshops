@@ -360,12 +360,12 @@ input[type=submit]:hover{
 .vasilis-foto{
   grid-area:item2;
   margin:5%;
-  /* margin-top:40%; */
-
 }
+
 #vaiva-foto{
   width:90%;
 }
+
 .vaiva-foto{
   grid-area:item2;
   margin:3%;
