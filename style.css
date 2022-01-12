@@ -363,6 +363,14 @@ input[type=submit]:hover{
   /* margin-top:40%; */
 
 }
+#vaiva-foto{
+  width:90%;
+}
+.vaiva-foto{
+  grid-area:item2;
+  margin:3%;
+
+}
 
 .grid-christi{
   background-color:#26547C;
