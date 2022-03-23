@@ -372,6 +372,15 @@ input[type=submit]:hover{
 
 }
 
+#jac-foto{
+  width:90%;
+}
+.jac-foto{
+  grid-area:item2;
+  margin:3%;
+
+}
+
 .grid-christi{
   background-color:#26547C;
   border-radius: 4px;
