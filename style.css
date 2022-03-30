@@ -381,6 +381,15 @@ input[type=submit]:hover{
 
 }
 
+#valeria-foto{
+  width:90%;
+}
+.valeria-foto{
+  grid-area:item2;
+  margin:3%;
+
+}
+
 .grid-christi{
   background-color:#26547C;
   border-radius: 4px;
